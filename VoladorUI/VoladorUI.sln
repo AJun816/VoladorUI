@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volador.Toolkit.Wpf", "Volador.Toolkit.Wpf\Volador.Toolkit.Wpf.csproj", "{F9347D44-6853-44A9-ACBE-4DCF0A4DBC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9347D44-6853-44A9-ACBE-4DCF0A4DBC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9347D44-6853-44A9-ACBE-4DCF0A4DBC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9347D44-6853-44A9-ACBE-4DCF0A4DBC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9347D44-6853-44A9-ACBE-4DCF0A4DBC25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E492E27E-BC70-4F9B-9888-444A4C7CDA85}
+	EndGlobalSection
+EndGlobal

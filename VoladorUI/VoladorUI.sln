@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volador.Toolkit.Wpf", "Vola
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIDesign", "UIDesign\UIDesign.csproj", "{13D39412-A5A1-4DF1-96C8-BB69B18C6B46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softkeyboard", "Softkeyboard\Softkeyboard.csproj", "{FFFE03B7-237F-4B98-AB88-0C5BAE8E7D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "动画TEST", "动画TEST\动画TEST.csproj", "{879CE47C-9A15-484E-8569-9071FC9CC955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{13D39412-A5A1-4DF1-96C8-BB69B18C6B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D39412-A5A1-4DF1-96C8-BB69B18C6B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D39412-A5A1-4DF1-96C8-BB69B18C6B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFE03B7-237F-4B98-AB88-0C5BAE8E7D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFE03B7-237F-4B98-AB88-0C5BAE8E7D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFE03B7-237F-4B98-AB88-0C5BAE8E7D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFE03B7-237F-4B98-AB88-0C5BAE8E7D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879CE47C-9A15-484E-8569-9071FC9CC955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879CE47C-9A15-484E-8569-9071FC9CC955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879CE47C-9A15-484E-8569-9071FC9CC955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879CE47C-9A15-484E-8569-9071FC9CC955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

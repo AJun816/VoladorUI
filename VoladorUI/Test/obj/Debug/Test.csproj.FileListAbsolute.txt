@@ -1,0 +1,14 @@
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\bin\Debug\Test.exe.config
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\bin\Debug\Test.exe
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\bin\Debug\Test.pdb
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\MainWindow.g.cs
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\App.g.cs
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test_MarkupCompile.cache
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test_MarkupCompile.lref
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\MainWindow.baml
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test.g.resources
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test.Properties.Resources.resources
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test.exe
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Test\obj\Debug\Test.pdb

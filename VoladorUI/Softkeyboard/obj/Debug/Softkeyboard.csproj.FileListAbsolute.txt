@@ -1,0 +1,12 @@
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard_MarkupCompile.cache
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard_MarkupCompile.lref
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\bin\Debug\Softkeyboard.dll
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\bin\Debug\Softkeyboard.pdb
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard.g.resources
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard.Properties.Resources.resources
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard.csproj.GenerateResource.cache
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard.csproj.CoreCompileInputs.cache
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard.dll
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\Softkeyboard.pdb
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\FrmKeyBoard.g.cs
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Softkeyboard\obj\Debug\FrmKeyBoard.baml

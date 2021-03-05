@@ -1,0 +1,5 @@
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Common\bin\Debug\Common.dll
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Common\bin\Debug\Common.pdb
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Common\obj\Debug\Common.dll
+D:\GitHub\Volador816\VoladorUI\VoladorUI\Common\obj\Debug\Common.pdb

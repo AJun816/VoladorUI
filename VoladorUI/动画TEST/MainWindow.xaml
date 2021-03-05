@@ -1,0 +1,29 @@
+﻿<Window x:Class="动画TEST.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:TermControls="clr-namespace:TermControls;assembly=TermControls"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:动画TEST"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:us="clr-namespace:Volador.Toolkit.Wpf;assembly=Volador.Toolkit.Wpf"
+        x:Name="Ellipse"
+        Title="MainWindow"
+        Width="1300"
+        Height="600"
+        AllowsTransparency="True"
+        Background="{x:Null}"
+        WindowStyle="None"
+        mc:Ignorable="d">
+    <Border Background="#ff020202" CornerRadius="10">
+        <StackPanel Margin="20">
+            <TextBox Height="50"
+                     FontSize="16"
+                     Foreground="White"
+                     Text="测试" />
+            <Button Click="Button_Click" Content="点击" />
+            <!--<TermControls:OnScreenKeyboard />-->
+            <!--<local2:PopUpkeyboard />-->
+            <!--<us:CarRoundPlay/>-->
+        </StackPanel>
+    </Border>
+</Window>
